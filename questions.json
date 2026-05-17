@@ -1,0 +1,976 @@
+{
+  "title": "Accounting and Finance Quiz",
+  "questions": [
+    {
+      "question": "Which transaction increases assets and equity?",
+      "choices": [
+        "Paying cash to suppliers",
+        "Owner invests cash",
+        "Purchasing inventory on credit",
+        "Paying bank loan"
+      ],
+      "answer": "Owner invests cash",
+      "explanation": "When the owner invests cash, both assets (cash) and equity (owner's capital) increase simultaneously."
+    },
+    {
+      "question": "The matching principle requires that expenses be:",
+      "choices": [
+        "Recorded when paid",
+        "Recorded when incurred",
+        "Matched with related revenues",
+        "Deferred indefinitely"
+      ],
+      "answer": "Matched with related revenues",
+      "explanation": "The matching principle requires expenses to be recognized in the same period as the revenues they help generate."
+    },
+    {
+      "question": "Revenue is recognized when:",
+      "choices": [
+        "Cash is received",
+        "Goods are produced",
+        "Performance obligation is satisfied",
+        "Contract is signed"
+      ],
+      "answer": "Performance obligation is satisfied",
+      "explanation": "Under IFRS 15, revenue is recognized when control of goods or services is transferred, i.e., when the performance obligation is satisfied."
+    },
+    {
+      "question": "Depreciation is best described as:",
+      "choices": [
+        "Asset valuation",
+        "Allocation of cost",
+        "Market value reduction",
+        "Cash outflow"
+      ],
+      "answer": "Allocation of cost",
+      "explanation": "Depreciation systematically allocates the cost of a tangible asset over its useful life."
+    },
+    {
+      "question": "In business combinations, goodwill arises when:",
+      "choices": [
+        "Fair value of net assets > purchase price",
+        "Purchase price > fair value of net assets",
+        "Assets are revalued",
+        "Liabilities exceed assets"
+      ],
+      "answer": "Purchase price > fair value of net assets",
+      "explanation": "Goodwill is the excess of the purchase consideration over the fair value of identifiable net assets acquired."
+    },
+    {
+      "question": "In consolidated statements, intercompany sales must be:",
+      "choices": [
+        "Reported separately",
+        "Ignored",
+        "Eliminated",
+        "Capitalized"
+      ],
+      "answer": "Eliminated",
+      "explanation": "Intercompany transactions are eliminated in consolidation to avoid double-counting within the group."
+    },
+    {
+      "question": "Fixed costs per unit will:",
+      "choices": [
+        "Increase as production increases",
+        "Decrease as production increases",
+        "Remain constant",
+        "Become variable"
+      ],
+      "answer": "Decrease as production increases",
+      "explanation": "Total fixed costs remain constant; therefore, fixed cost per unit decreases as production volume increases."
+    },
+    {
+      "question": "Contribution margin equals:",
+      "choices": [
+        "Sales − Fixed cost",
+        "Sales − Variable cost",
+        "Sales − Total cost",
+        "Gross profit"
+      ],
+      "answer": "Sales − Variable cost",
+      "explanation": "Contribution margin is sales revenue minus variable costs."
+    },
+    {
+      "question": "The primary goal of financial management is to:",
+      "choices": [
+        "Maximize sales",
+        "Minimize cost",
+        "Maximize shareholders’ wealth",
+        "Increase market share"
+      ],
+      "answer": "Maximize shareholders’ wealth",
+      "explanation": "The main objective of financial management is to maximize the wealth of shareholders, typically through stock price appreciation."
+    },
+    {
+      "question": "Which investment appraisal method considers time value of money?",
+      "choices": [
+        "Payback period",
+        "Accounting rate of return",
+        "Net present value",
+        "Break-even analysis"
+      ],
+      "answer": "Net present value",
+      "explanation": "NPV discounts future cash flows to present value, explicitly considering the time value of money."
+    },
+    {
+      "question": "Audit risk is the risk that the auditor:",
+      "choices": [
+        "Detects fraud",
+        "Issues an inappropriate opinion",
+        "Finds material error",
+        "Loses independence"
+      ],
+      "answer": "Issues an inappropriate opinion",
+      "explanation": "Audit risk is the risk that the auditor expresses an inappropriate audit opinion when the financial statements are materially misstated."
+    },
+    {
+      "question": "The most reliable audit evidence is obtained from:",
+      "choices": [
+        "Client inquiry",
+        "Observation",
+        "External confirmation",
+        "Analytical procedures"
+      ],
+      "answer": "External confirmation",
+      "explanation": "Evidence obtained directly from independent external sources is generally more reliable."
+    },
+    {
+      "question": "Government accounting mainly emphasizes:",
+      "choices": [
+        "Profit measurement",
+        "Cash flows",
+        "Budgetary compliance",
+        "Market value"
+      ],
+      "answer": "Budgetary compliance",
+      "explanation": "Governmental accounting focuses on demonstrating compliance with budgets and legal requirements rather than profit."
+    },
+    {
+      "question": "IPSAS are issued by:",
+      "choices": ["IPSASB", "IASB", "IFAC", "IMF"],
+      "answer": "IPSASB",
+      "explanation": "International Public Sector Accounting Standards (IPSAS) are issued by the International Public Sector Accounting Standards Board (IPSASB)."
+    },
+    {
+      "question": "A tax is best defined as:",
+      "choices": [
+        "Voluntary payment",
+        "Compulsory levy without direct benefit",
+        "Service fee",
+        "Government loan"
+      ],
+      "answer": "Compulsory levy without direct benefit",
+      "explanation": "Taxes are compulsory contributions to government revenue without direct quid pro quo."
+    },
+    {
+      "question": "Progressive tax means:",
+      "choices": [
+        "Same rate for all",
+        "Lower income pays higher tax",
+        "Tax rate increases with income",
+        "Tax based on consumption"
+      ],
+      "answer": "Tax rate increases with income",
+      "explanation": "In a progressive tax system, the tax rate increases as taxable income increases."
+    },
+    {
+      "question": "Inflation refers to:",
+      "choices": [
+        "Fall in prices",
+        "Rise in interest rates",
+        "General increase in price level",
+        "Increase in GDP"
+      ],
+      "answer": "General increase in price level",
+      "explanation": "Inflation is a sustained increase in the general price level of goods and services."
+    },
+    {
+      "question": "Opportunity cost is:",
+      "choices": [
+        "Accounting cost",
+        "Explicit cost",
+        "Value of next best alternative",
+        "Sunk cost"
+      ],
+      "answer": "Value of next best alternative",
+      "explanation": "Opportunity cost represents the benefit forgone by choosing one alternative over the next best option."
+    },
+    {
+      "question": "Auditor independence is compromised when the auditor:",
+      "choices": [
+        "Rotates staff",
+        "Provides audit opinion",
+        "Uses audit software",
+        "Has financial interest in client"
+      ],
+      "answer": "Has financial interest in client",
+      "explanation": "A direct financial interest in the client impairs auditor independence."
+    },
+    {
+      "question": "Corporate governance mainly aims to:",
+      "choices": [
+        "Increase profit",
+        "Protect stakeholder interests",
+        "Reduce taxes",
+        "Eliminate risk"
+      ],
+      "answer": "Protect stakeholder interests",
+      "explanation": "Corporate governance ensures accountability and protects the interests of all stakeholders."
+    },
+    {
+      "question": "In consolidation, an unrealized profit from an upstream sale of inventory is:",
+      "choices": [
+        "Eliminated against parent’s retained earnings",
+        "Eliminated against subsidiary’s profit, reducing NCI",
+        "Eliminated against group profit only",
+        "Not eliminated if NCI exists"
+      ],
+      "answer": "Eliminated against subsidiary’s profit, reducing NCI",
+      "explanation": "Unrealized profit in upstream sales is eliminated against the subsidiary's profit, affecting both controlling and non-controlling interest proportionately."
+    },
+    {
+      "question": "If a parent acquires an additional 20% in a subsidiary it already controls, the difference between consideration and carrying amount is recognized in:",
+      "choices": ["Profit or loss", "OCI", "Goodwill", "Equity"],
+      "answer": "Equity",
+      "explanation": "Under IFRS 10, changes in ownership interest without loss of control are accounted for as equity transactions."
+    },
+    {
+      "question": "Under IFRS, development costs are capitalized when:",
+      "choices": [
+        "Management intends to complete the asset",
+        "Technical feasibility is demonstrated",
+        "Future economic benefits are probable and costs measurable",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "IAS 38 requires all specified criteria (including intent, feasibility, probable benefits, and measurability) to be met for capitalization of development costs."
+    },
+    {
+      "question": "An asset is derecognized when:",
+      "choices": [
+        "It is fully depreciated",
+        "Legal ownership transfers",
+        "No future economic benefits are expected",
+        "Cash is received"
+      ],
+      "answer": "No future economic benefits are expected",
+      "explanation": "Under IAS 16 and IFRS 9, derecognition occurs when the entity loses control or no future economic benefits are expected."
+    },
+    {
+      "question": "If control risk is assessed too low, the auditor is most likely to:",
+      "choices": [
+        "Over-audit",
+        "Issue a qualified opinion",
+        "Under-audit and increase audit risk",
+        "Reduce inherent risk"
+      ],
+      "answer": "Under-audit and increase audit risk",
+      "explanation": "Over-relying on controls (assessing control risk too low) leads to reduced substantive testing, increasing overall audit risk."
+    },
+    {
+      "question": "Which situation requires a disclaimer of opinion rather than a qualified opinion?",
+      "choices": [
+        "Material misstatement, not pervasive",
+        "Scope limitation, pervasive",
+        "Going concern uncertainty disclosed",
+        "Change in accounting policy"
+      ],
+      "answer": "Scope limitation, pervasive",
+      "explanation": "A pervasive scope limitation prevents the auditor from obtaining sufficient evidence, leading to a disclaimer of opinion."
+    },
+    {
+      "question": "In a make-or-buy decision, which cost is always relevant?",
+      "choices": [
+        "Sunk cost",
+        "Allocated fixed cost",
+        "Opportunity cost",
+        "Historical cost"
+      ],
+      "answer": "Opportunity cost",
+      "explanation": "Opportunity cost represents the benefit forgone and is always relevant in decision-making."
+    },
+    {
+      "question": "If contribution margin ratio increases while sales remain constant, profit will:",
+      "choices": [
+        "Decrease",
+        "Remain unchanged",
+        "Increase",
+        "Cannot be determined"
+      ],
+      "answer": "Increase",
+      "explanation": "Higher contribution margin ratio means more contribution per unit of sales, increasing operating profit when sales are constant."
+    },
+    {
+      "question": "A project with positive NPV but IRR lower than the cost of capital should be:",
+      "choices": ["Rejected", "Accepted", "Further analyzed only", "Deferred"],
+      "answer": "Rejected",
+      "explanation": "Such a conflict is rare; typically, positive NPV implies IRR > cost of capital. If it occurs, NPV is preferred, but standard rule prioritizes NPV."
+    },
+    {
+      "question": "The reinvestment rate assumption problem exists mainly in:",
+      "choices": ["Payback period", "ARR", "IRR", "NPV"],
+      "answer": "IRR",
+      "explanation": "IRR assumes interim cash flows are reinvested at the IRR rate, which may be unrealistic; NPV assumes reinvestment at the cost of capital."
+    },
+    {
+      "question": "Under IPSAS, revenue from non-exchange transactions is recognized when:",
+      "choices": [
+        "Cash is received",
+        "Budget is approved",
+        "Control of resources is obtained",
+        "Taxes are assessed"
+      ],
+      "answer": "Control of resources is obtained",
+      "explanation": "IPSAS recognizes non-exchange revenue (e.g., taxes, grants) when there is control over the resources and it is probable benefits will flow."
+    },
+    {
+      "question": "Which fund uses the modified accrual basis?",
+      "choices": [
+        "Enterprise fund",
+        "Fiduciary fund",
+        "General fund",
+        "Internal service fund"
+      ],
+      "answer": "General fund",
+      "explanation": "Governmental funds, including the general fund, use modified accrual accounting."
+    },
+    {
+      "question": "Tax incidence refers to:",
+      "choices": [
+        "Who legally pays the tax",
+        "Who bears the economic burden",
+        "Tax assessment date",
+        "Tax collection method"
+      ],
+      "answer": "Who bears the economic burden",
+      "explanation": "Tax incidence analyzes who ultimately bears the economic cost of a tax, regardless of legal liability."
+    },
+    {
+      "question": "A regressive tax system is one in which:",
+      "choices": [
+        "Tax increases with income",
+        "Tax rate decreases as income increases",
+        "Tax is proportional",
+        "Tax is indirect"
+      ],
+      "answer": "Tax rate decreases as income increases",
+      "explanation": "Regressive taxes take a larger percentage of income from lower-income earners."
+    },
+    {
+      "question": "Which accounting change is applied retrospectively?",
+      "choices": [
+        "Change in estimate",
+        "Error correction",
+        "Change in depreciation method",
+        "Asset impairment"
+      ],
+      "answer": "Error correction",
+      "explanation": "Prior period errors are corrected retrospectively by restating comparative figures."
+    },
+    {
+      "question": "The primary reason auditors assess materiality is to:",
+      "choices": [
+        "Detect fraud",
+        "Reduce audit cost",
+        "Evaluate misstatement impact on users",
+        "Determine internal control strength"
+      ],
+      "answer": "Evaluate misstatement impact on users",
+      "explanation": "Materiality helps auditors judge whether misstatements could influence economic decisions of users."
+    },
+    {
+      "question": "Economic Value Added (EVA) is positive when:",
+      "choices": [
+        "Accounting profit is positive",
+        "ROE exceeds cost of equity",
+        "NOPAT exceeds cost of capital",
+        "Cash flow exceeds depreciation"
+      ],
+      "answer": "NOPAT exceeds cost of capital",
+      "explanation": "EVA = NOPAT − (Capital × WACC); positive when return on capital exceeds the cost of capital."
+    },
+    {
+      "question": "Which scenario creates deferred tax liability?",
+      "choices": [
+        "Accounting depreciation > tax depreciation",
+        "Tax depreciation > accounting depreciation",
+        "Provision not deductible",
+        "Tax loss carried forward"
+      ],
+      "answer": "Tax depreciation > accounting depreciation",
+      "explanation": "Accelerated tax depreciation creates temporary differences leading to deferred tax liability."
+    },
+    {
+      "question": "Which error will NOT affect trial balance agreement?",
+      "choices": [
+        "Error of casting",
+        "Error of omission",
+        "Error of principle",
+        "Compensating error"
+      ],
+      "answer": "Compensating error",
+      "explanation": "Compensating errors offset each other, so debits and credits remain equal."
+    },
+    {
+      "question": "In capital budgeting, mutually exclusive projects should be evaluated using:",
+      "choices": ["IRR", "Payback period", "NPV", "ARR"],
+      "answer": "NPV",
+      "explanation": "NPV is the preferred method for ranking mutually exclusive projects as it directly measures value added."
+    },
+    {
+      "question": "Which of the following errors will not affect the trial balance?",
+      "choices": [
+        "Purchase of furniture debited to purchases account",
+        "Complete omission of a transaction",
+        "Wrong totaling of cash book",
+        "Posting to wrong side of an account"
+      ],
+      "answer": "Complete omission of a transaction",
+      "explanation": "Complete omission affects neither debit nor credit sides, so trial balance still agrees."
+    },
+    {
+      "question": "Under IAS 2, inventory should be measured at:",
+      "choices": [
+        "Historical cost",
+        "Replacement cost",
+        "Net realizable value",
+        "Lower of cost and net realizable value"
+      ],
+      "answer": "Lower of cost and net realizable value",
+      "explanation": "IAS 2 requires inventory to be valued at the lower of cost and NRV to apply prudence."
+    },
+    {
+      "question": "Which cost should be excluded from inventory valuation?",
+      "choices": [
+        "Import duties",
+        "Freight inward",
+        "Abnormal wastage",
+        "Direct labor"
+      ],
+      "answer": "Abnormal wastage",
+      "explanation": "Abnormal wastage is not part of normal production cost and is expensed immediately."
+    },
+    {
+      "question": "A contingent liability should be:",
+      "choices": [
+        "Recognized as an expense",
+        "Recognized as a liability",
+        "Disclosed in the notes",
+        "Ignored completely"
+      ],
+      "answer": "Disclosed in the notes",
+      "explanation": "Contingent liabilities (possible obligations) are disclosed unless remote."
+    },
+    {
+      "question": "If goods are sent on approval and unsold at year-end, they should be:",
+      "choices": [
+        "Treated as sales",
+        "Included in closing inventory",
+        "Written off as loss",
+        "Treated as consignment"
+      ],
+      "answer": "Included in closing inventory",
+      "explanation": "Goods on approval remain the seller's inventory until accepted by the customer."
+    },
+    {
+      "question": "Which depreciation method results in higher depreciation in early years?",
+      "choices": [
+        "Straight-line method",
+        "Units of production method",
+        "Revaluation method",
+        "Reducing balance method"
+      ],
+      "answer": "Reducing balance method",
+      "explanation": "Reducing (diminishing) balance method charges higher depreciation in earlier years."
+    },
+    {
+      "question": "Under accrual accounting, outstanding expenses are:",
+      "choices": ["Assets", "Expenses only", "Liabilities", "Capital"],
+      "answer": "Liabilities",
+      "explanation": "Outstanding expenses represent obligations to pay and are recorded as liabilities."
+    },
+    {
+      "question": "Which of the following is a capital expenditure?",
+      "choices": [
+        "Repairs of machinery",
+        "Annual license fee",
+        "Extension of building",
+        "Wages paid to workers"
+      ],
+      "answer": "Extension of building",
+      "explanation": "Capital expenditure adds to the asset's value or extends its life (e.g., building extension)."
+    },
+    {
+      "question": "Which error is revealed by the trial balance?",
+      "choices": [
+        "Error of principle",
+        "Error of omission",
+        "Error of commission",
+        "Error in casting"
+      ],
+      "answer": "Error in casting",
+      "explanation": "Errors in addition (casting) cause imbalance in trial balance totals."
+    },
+    {
+      "question": "Provision for doubtful debts is created to follow the principle of:",
+      "choices": ["Matching", "Consistency", "Conservatism", "Materiality"],
+      "answer": "Conservatism",
+      "explanation": "It reflects prudence/conservatism by anticipating losses but not gains."
+    },
+    {
+      "question": "Which of the following increases both assets and liabilities?",
+      "choices": [
+        "Cash sales",
+        "Purchase of goods on credit",
+        "Payment of creditors",
+        "Introduction of capital"
+      ],
+      "answer": "Purchase of goods on credit",
+      "explanation": "Inventory (asset) increases and creditors (liability) increase."
+    },
+    {
+      "question": "Goodwill is recognized in the books when it is:",
+      "choices": [
+        "Internally generated",
+        "Estimated value",
+        "Purchased for consideration",
+        "Created by advertisement"
+      ],
+      "answer": "Purchased for consideration",
+      "explanation": "Purchased goodwill (in business combination) is recognized; internally generated is not."
+    },
+    {
+      "question": "Which of the following is an example of a real account?",
+      "choices": ["Purchases", "Outstanding rent", "Cash", "Salary expense"],
+      "answer": "Cash",
+      "explanation": "Real accounts relate to assets/liabilities (e.g., cash, machinery); nominal accounts are income/expenses."
+    },
+    {
+      "question": "If the closing stock is overstated, the effect on net profit is:",
+      "choices": ["Understated", "Overstated", "No effect", "Depends on sales"],
+      "answer": "Overstated",
+      "explanation": "Overstated closing stock reduces cost of goods sold, increasing gross and net profit."
+    },
+    {
+      "question": "Which accounting concept assumes the business will continue indefinitely?",
+      "choices": [
+        "Business entity",
+        "Money measurement",
+        "Going concern",
+        "Dual aspect"
+      ],
+      "answer": "Going concern",
+      "explanation": "Going concern assumes the business will continue operations in the foreseeable future."
+    },
+    {
+      "question": "Under IAS 16, depreciation starts when the asset:",
+      "choices": [
+        "Is purchased",
+        "Is paid for",
+        "Is available for use",
+        "Is put into full production"
+      ],
+      "answer": "Is available for use",
+      "explanation": "Depreciation begins when the asset is available for use in the intended manner."
+    },
+    {
+      "question": "Which of the following items is shown in the balance sheet only?",
+      "choices": ["Closing stock", "Depreciation", "Wages", "Bad debts"],
+      "answer": "Closing stock",
+      "explanation": "Closing stock appears only in the statement of financial position (balance sheet)."
+    },
+    {
+      "question": "Which of the following violates the matching principle?",
+      "choices": [
+        "Charging prepaid expenses to next year",
+        "Charging revenue expenses to current year",
+        "Charging capital expenditure to income statement",
+        "Providing depreciation"
+      ],
+      "answer": "Charging capital expenditure to income statement",
+      "explanation": "Capital expenditure should be capitalized, not expensed immediately against revenue."
+    },
+    {
+      "question": "Which account has a credit balance?",
+      "choices": [
+        "Returns inward",
+        "Outstanding expenses",
+        "Prepaid rent",
+        "Drawings"
+      ],
+      "answer": "Outstanding expenses",
+      "explanation": "Outstanding expenses are liabilities and normally have credit balances."
+    },
+    {
+      "question": "Net realizable value is calculated as:",
+      "choices": [
+        "Selling price + selling cost",
+        "Cost − expenses",
+        "Estimated selling price − selling expenses",
+        "Market price − cost"
+      ],
+      "answer": "Estimated selling price − selling expenses",
+      "explanation": "NRV = Estimated selling price in ordinary course minus estimated costs to complete and sell."
+    },
+    {
+      "question": "An error of principle will:",
+      "choices": [
+        "Always affect trial balance agreement",
+        "Never affect profit",
+        "Affect classification but not arithmetical accuracy",
+        "Be revealed by trial balance"
+      ],
+      "answer": "Affect classification but not arithmetical accuracy",
+      "explanation": "Error of principle affects profit and classification but trial balance still agrees."
+    },
+    {
+      "question": "If the current ratio is 2:1 and working capital is Birr 60,000, current assets are:",
+      "choices": ["60,000", "90,000", "120,000", "180,000"],
+      "answer": "120,000",
+      "explanation": "Current ratio = CA / CL = 2; Working capital = CA − CL = 60,000 → CA = 2CL, so 2CL − CL = 60,000 → CL = 60,000; CA = 120,000."
+    },
+    {
+      "question": "Under marginal costing, fixed production overhead is:",
+      "choices": [
+        "Included in inventory valuation",
+        "Treated as period cost",
+        "Capitalized in closing stock",
+        "Apportioned to units produced"
+      ],
+      "answer": "Treated as period cost",
+      "explanation": "In marginal costing, fixed overheads are expensed in full in the period incurred."
+    },
+    {
+      "question": "A favorable material price variance may occur due to:",
+      "choices": [
+        "Purchase of lower-quality material",
+        "Inefficient labor usage",
+        "Increase in standard price",
+        "Increase in actual quantity used"
+      ],
+      "answer": "Purchase of lower-quality material",
+      "explanation": "Buying cheaper (lower-quality) material can cause a favorable price variance."
+    },
+    {
+      "question": "Which situation violates the going concern assumption?",
+      "choices": [
+        "Consistent losses over years with no recovery plan",
+        "Expansion using long-term loans",
+        "Temporary cash shortage",
+        "Change in accounting policy"
+      ],
+      "answer": "Consistent losses over years with no recovery plan",
+      "explanation": "Severe ongoing losses without mitigation cast significant doubt on going concern."
+    },
+    {
+      "question": "Which of the following audit evidence is least reliable?",
+      "choices": [
+        "Bank confirmation",
+        "Auditor’s physical observation",
+        "Client-generated internal documents",
+        "Confirmation from debtors"
+      ],
+      "answer": "Client-generated internal documents",
+      "explanation": "Internal documents produced by the client are less reliable due to potential bias or manipulation."
+    },
+    {
+      "question": "In absorption costing, profit differs from marginal costing profit because of:",
+      "choices": [
+        "Variable selling expenses",
+        "Fixed manufacturing overhead in inventory",
+        "Fixed administrative expenses",
+        "Direct labor cost"
+      ],
+      "answer": "Fixed manufacturing overhead in inventory",
+      "explanation": "Absorption costing defers fixed overhead in inventory, affecting profit when production ≠ sales."
+    },
+    {
+      "question": "If contribution margin ratio decreases while sales increase, profit will:",
+      "choices": [
+        "Always increase",
+        "Always decrease",
+        "Increase only if contribution increases in total",
+        "Remain unchanged"
+      ],
+      "answer": "Increase only if contribution increases in total",
+      "explanation": "Profit increases if total contribution grows enough to cover fixed costs more than before."
+    },
+    {
+      "question": "Which ratio best measures long-term solvency?",
+      "choices": [
+        "Current ratio",
+        "Quick ratio",
+        "Debt-equity ratio",
+        "Inventory turnover"
+      ],
+      "answer": "Debt-equity ratio",
+      "explanation": "Debt-equity ratio assesses the proportion of debt financing relative to equity, indicating long-term solvency."
+    },
+    {
+      "question": "When a contingent liability becomes probable and measurable, it should be:",
+      "choices": [
+        "Ignored",
+        "Disclosed only",
+        "Provided in accounts",
+        "Shown as asset"
+      ],
+      "answer": "Provided in accounts",
+      "explanation": "When probable (>50%) and measurable, it becomes a provision and is recognized in the accounts."
+    },
+    {
+      "question": "Which depreciation method results in higher depreciation in early years?",
+      "choices": [
+        "Straight line",
+        "Units of production",
+        "Diminishing balance",
+        "Annuity method"
+      ],
+      "answer": "Diminishing balance",
+      "explanation": "Diminishing balance applies a constant rate to reducing book value, front-loading depreciation."
+    },
+    {
+      "question": "The break-even point decreases when:",
+      "choices": [
+        "Fixed cost increases",
+        "Selling price decreases",
+        "Contribution per unit increases",
+        "Variable cost increases"
+      ],
+      "answer": "Contribution per unit increases",
+      "explanation": "Higher contribution per unit reduces the number of units needed to cover fixed costs."
+    },
+    {
+      "question": "Detection risk in auditing is controlled mainly by:",
+      "choices": [
+        "Client internal controls",
+        "Auditor’s substantive procedures",
+        "Inherent risk",
+        "Control risk"
+      ],
+      "answer": "Auditor’s substantive procedures",
+      "explanation": "Detection risk is managed by the nature, timing, and extent of substantive testing performed by the auditor."
+    },
+    {
+      "question": "A company shows high gross profit but low net profit. This indicates:",
+      "choices": [
+        "High cost of goods sold",
+        "High operating expenses",
+        "Poor inventory valuation",
+        "Low sales volume"
+      ],
+      "answer": "High operating expenses",
+      "explanation": "High gross profit means low COGS, but low net profit points to high administrative/selling expenses."
+    },
+    {
+      "question": "In funds flow statement, issue of bonus shares results in:",
+      "choices": [
+        "Inflow of funds",
+        "Outflow of funds",
+        "No flow of funds",
+        "Increase in working capital"
+      ],
+      "answer": "No flow of funds",
+      "explanation": "Bonus shares are issued from reserves without cash movement; no effect on funds."
+    },
+    {
+      "question": "Which capital budgeting method ignores time value of money?",
+      "choices": [
+        "Net present value",
+        "Internal rate of return",
+        "Payback period",
+        "Profitability index"
+      ],
+      "answer": "Payback period",
+      "explanation": "Payback period uses undiscounted cash flows and ignores time value."
+    },
+    {
+      "question": "Under IFRS, inventory is valued at:",
+      "choices": [
+        "Cost",
+        "Market value",
+        "Net realizable value",
+        "Lower of cost and NRV"
+      ],
+      "answer": "Lower of cost and NRV",
+      "explanation": "IFRS (IAS 2) requires the lower of cost and net realizable value."
+    },
+    {
+      "question": "If sales are Birr 500,000 and P/V ratio is 40%, contribution is:",
+      "choices": ["200,000", "300,000", "400,000", "100,000"],
+      "answer": "200,000",
+      "explanation": "Contribution = Sales × P/V ratio = 500,000 × 0.40 = 200,000."
+    },
+    {
+      "question": "Which audit opinion is issued when financial statements are materially misstated?",
+      "choices": ["Unqualified", "Qualified", "Adverse", "Disclaimer"],
+      "answer": "Adverse",
+      "explanation": "Adverse opinion is issued when misstatements are material and pervasive."
+    },
+    {
+      "question": "In cash flow statement, purchase of machinery is classified as:",
+      "choices": [
+        "Operating activity",
+        "Financing activity",
+        "Investing activity",
+        "Non-cash activity"
+      ],
+      "answer": "Investing activity",
+      "explanation": "Acquisition of non-current assets is an investing cash outflow."
+    },
+    {
+      "question": "Which concept ensures expenses are matched with revenues?",
+      "choices": ["Consistency", "Prudence", "Matching", "Going concern"],
+      "answer": "Matching",
+      "explanation": "The matching concept requires expenses to be recognized in the same period as related revenues."
+    },
+    {
+      "question": "Under IFRS, development costs are capitalized when:",
+      "choices": [
+        "Research phase is completed",
+        "Future economic benefits are probable and costs can be measured reliably",
+        "Management intends to capitalize",
+        "Cash is paid"
+      ],
+      "answer": "Future economic benefits are probable and costs can be measured reliably",
+      "explanation": "IAS 38 lists multiple criteria, but the core ones are probable future benefits and reliable measurement."
+    },
+    {
+      "question": "Which depreciation method best matches revenue with usage?",
+      "choices": [
+        "Straight-line",
+        "Double declining balance",
+        "Units of production",
+        "Sum-of-the-years’-digits"
+      ],
+      "answer": "Units of production",
+      "explanation": "Units of production allocates cost based on actual usage/activity, matching expense with revenue generated."
+    },
+    {
+      "question": "In consolidation, non-controlling interest is measured at:",
+      "choices": [
+        "Book value only",
+        "Fair value or proportionate share of net assets",
+        "Cost less depreciation",
+        "Market value only"
+      ],
+      "answer": "Fair value or proportionate share of net assets",
+      "explanation": "IFRS 3 allows choice between fair value (full goodwill) or proportionate share (partial goodwill) method."
+    },
+    {
+      "question": "A provision should be recognized when:",
+      "choices": [
+        "Obligation is possible",
+        "Obligation is probable and reliably measurable",
+        "Obligation is remote",
+        "Cash is paid"
+      ],
+      "answer": "Obligation is probable and reliably measurable",
+      "explanation": "IAS 37 requires present obligation, probable outflow, and reliable estimate for recognition."
+    },
+    {
+      "question": "Under marginal costing, fixed manufacturing overhead is treated as:",
+      "choices": [
+        "Product cost",
+        "Period cost",
+        "Inventoriable cost",
+        "Prime cost"
+      ],
+      "answer": "Period cost",
+      "explanation": "Fixed overheads are expensed in the period incurred under marginal costing."
+    },
+    {
+      "question": "Sales mix changes affect break-even point because:",
+      "choices": [
+        "Fixed cost changes",
+        "Contribution margin changes",
+        "Variable cost becomes fixed",
+        "Sales volume remains constant"
+      ],
+      "answer": "Contribution margin changes",
+      "explanation": "Different products have different contribution margins; changing mix alters overall weighted contribution."
+    },
+    {
+      "question": "Which audit risk is reduced by effective internal control?",
+      "choices": [
+        "Inherent risk",
+        "Detection risk",
+        "Control risk",
+        "Audit risk only"
+      ],
+      "answer": "Control risk",
+      "explanation": "Strong internal controls lower the risk that misstatements will not be prevented or detected."
+    },
+    {
+      "question": "The most persuasive audit evidence is obtained from:",
+      "choices": [
+        "Analytical procedures",
+        "Inquiry of management",
+        "External confirmation",
+        "Internal documentation"
+      ],
+      "answer": "External confirmation",
+      "explanation": "Direct confirmation from independent third parties is highly persuasive evidence."
+    },
+    {
+      "question": "A project with IRR higher than WACC should be:",
+      "choices": ["Rejected", "Accepted", "Deferred", "Audited"],
+      "answer": "Accepted",
+      "explanation": "IRR > WACC indicates the project earns more than its cost of capital and adds value."
+    },
+    {
+      "question": "NPV method assumes reinvestment at:",
+      "choices": ["IRR", "Risk-free rate", "Cost of capital", "Inflation rate"],
+      "answer": "Cost of capital",
+      "explanation": "NPV assumes interim cash flows are reinvested at the discount rate (cost of capital)."
+    },
+    {
+      "question": "In governmental accounting, revenues are recognized when they are:",
+      "choices": [
+        "Earned only",
+        "Measurable and available",
+        "Collected",
+        "Authorized"
+      ],
+      "answer": "Measurable and available",
+      "explanation": "Modified accrual basis recognizes revenues when measurable and available for spending."
+    },
+    {
+      "question": "Capital project funds are used to account for:",
+      "choices": [
+        "Operating expenditures",
+        "Long-term debt payments",
+        "Construction of major assets",
+        "Salaries and wages"
+      ],
+      "answer": "Construction of major assets",
+      "explanation": "Capital projects funds finance acquisition or construction of major capital facilities."
+    },
+    {
+      "question": "VAT burden is ultimately borne by:",
+      "choices": ["Seller", "Government", "Final consumer", "Wholesaler"],
+      "answer": "Final consumer",
+      "explanation": "VAT is an indirect consumption tax ultimately paid by the end consumer."
+    },
+    {
+      "question": "Tax elasticity measures:",
+      "choices": [
+        "Fairness of tax",
+        "Responsiveness of tax revenue to income changes",
+        "Ability to collect tax",
+        "Tax rate stability"
+      ],
+      "answer": "Responsiveness of tax revenue to income changes",
+      "explanation": "Tax elasticity shows how tax revenue changes with changes in income or economic activity."
+    },
+    {
+      "question": "Dual aspect concept states that:",
+      "choices": [
+        "Assets = Liabilities + Equity",
+        "Income = Expense",
+        "Cash = Profit",
+        "Revenue = Receipts"
+      ],
+      "answer": "Assets = Liabilities + Equity",
+      "explanation": "The dual aspect (accounting equation) forms the basis of double-entry bookkeeping."
+    }
+  ]
+}
